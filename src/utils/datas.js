@@ -64,6 +64,8 @@ const contacts = {
   Whatsapp: { name: "Whatsapp", src: whatsappIcon, contact: "+62 895322728059", href: "https://wa.me/62895322728059" },
 };
 
+
+
 const stacks = {
   HTML: { name: "HTML", src: htmlIcon, level: "Advanced" },
   CSS: { name: "CSS", src: cssIcon, level: "Advanced" },
