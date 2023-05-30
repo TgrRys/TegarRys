@@ -5,18 +5,13 @@ import jsIcon from "../../src/assets/icons/js.svg";
 import bootstrapIcon from "../../src/assets/icons/bootstrap.svg";
 import tailwindIcon from "../../src/assets/icons/tailwind.svg";
 import reactIcon from "../../src/assets/icons/react.svg";
-import nextjsIcon from "../../src/assets/icons/nextjs.svg";
-import threejsIcon from "../../src/assets/icons/threejs.svg";
-import laravelIcon from "../../src/assets/icons/laravel.svg";
 import nodejsIcon from "../../src/assets/icons/nodejs.svg";
 import npmIcon from "../../src/assets/icons/npm.svg";
 import figmaIcon from "../../src/assets/icons/figma.svg";
 import gitIcon from "../../src/assets/icons/git.svg";
 import githubIcon from "../../src/assets/icons/github.svg";
-import mysqlIcon from "../../src/assets/icons/mysql.svg";
 import vscodeIcon from "../../src/assets/icons/vscode.svg";
 import vite from "../../src/assets/icons/vite.svg";
-import webpackIcon from "../../src/assets/icons/webpack.svg";
 
 // Contact Icons
 import instagramIcon from "../../src/assets/icons/instagram.svg";
