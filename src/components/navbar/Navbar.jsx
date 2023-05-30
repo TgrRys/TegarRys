@@ -46,6 +46,8 @@ export default function Navbar() {
     { text: "Home", to: "/", number: "01" },
     { text: "About", to: "/about", number: "02" },
     { text: "Projects", to: "/projects", number: "03" },
+    { text: "Contact", to: "/contact", number: "04" },
+
   ];
 
   return (

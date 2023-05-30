@@ -1,6 +1,5 @@
 import React from "react";
 // import Image from "next/image";
-import ulin from "../../assets/images/ulin.webp";
 import { tools, stacks } from "../../utils/datas";
 import CardAbout from "../../components/card/Card-about";
 import Experience from "./experience/experience";
@@ -55,7 +54,7 @@ export default function About() {
           <div className="grayscale transition-all duration-500 hover:grayscale-0">
             <img
               src="https://i.pinimg.com/originals/4e/40/ed/4e40ed6f30da3cb2c1e9106c9a375b17.jpg"
-              alt="ulin"
+              alt="tegar"
               height={500}
               className="scale-50 lg:scale-100 2xl:scale-50"
             />

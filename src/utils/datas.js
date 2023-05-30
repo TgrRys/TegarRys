@@ -22,6 +22,11 @@ import vscodeIcon from "../../src/assets/icons/vscode.svg";
 import vite from "../../src/assets/icons/vite.svg";
 import webpackIcon from "../../src/assets/icons/webpack.svg";
 
+// Contact Icons
+import instagramIcon from "../../src/assets/icons/instagram.svg";
+import linkedinIcon from "../../src/assets/icons/linkedin.svg";
+import whatsappIcon from "../../src/assets/icons/whatsapp.svg";
+
 // Project Images
 import mulih from "../../src/assets/images/mulih.webp";
 import travel from "../../src/assets/images/travel.webp";
@@ -50,6 +55,13 @@ const tools = {
   Vite: { name: "Vite", src: vite, level: "Build tool" },
   VSCode: { name: "VSCode", src: vscodeIcon, level: "Code editor" },
   Figma: { name: "Figma", src: figmaIcon, level: "UIUX Design tool" },
+};
+
+const contacts = {
+  Github: { name: "Github", src: githubIcon, contact: "@TgrRys", href: "https://github.com/TgrRys" },
+  Instagram: { name: "Instagram", src: instagramIcon, contact: "@tgr_rys", href: "https://www.instagram.com/tgr_rys/" },
+  Linkedin: { name: "Linkedin", src: linkedinIcon, contact: "@tegar-risqy-yulian-santoso", href: "https://www.linkedin.com/in/tegar-risqy-yulian-santoso/" },
+  Whatsapp: { name: "Whatsapp", src: whatsappIcon, contact: "+62 895322728059", href: "https://wa.me/62895322728059" },
 };
 
 const stacks = {
@@ -165,4 +177,4 @@ const projects = [
   },
 ];
 
-export { tools, stacks, projects };
+export { tools, stacks, projects, contacts };
