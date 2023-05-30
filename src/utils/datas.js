@@ -2,10 +2,6 @@
 import htmlIcon from "../../src/assets/icons/html.svg";
 import cssIcon from "../../src/assets/icons/css.svg";
 import jsIcon from "../../src/assets/icons/js.svg";
-import phpIcon from "../../src/assets/icons/php.svg";
-import javaIcon from "../../src/assets/icons/java.svg";
-import pythonIcon from "../../src/assets/icons/python.svg";
-import sassIcon from "../../src/assets/icons/sass.svg";
 import bootstrapIcon from "../../src/assets/icons/bootstrap.svg";
 import tailwindIcon from "../../src/assets/icons/tailwind.svg";
 import reactIcon from "../../src/assets/icons/react.svg";
@@ -63,7 +59,6 @@ const contacts = {
   Linkedin: { name: "Linkedin", src: linkedinIcon, contact: "@tegar-risqy-yulian-santoso", href: "https://www.linkedin.com/in/tegar-risqy-yulian-santoso/" },
   Whatsapp: { name: "Whatsapp", src: whatsappIcon, contact: "+62 895322728059", href: "https://wa.me/62895322728059" },
 };
-
 
 
 const stacks = {
