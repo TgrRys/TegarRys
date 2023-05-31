@@ -104,7 +104,7 @@ export default function Navbar() {
               data-aos-once="true"
             >
               <span className="text-xs text-accent">{item.number}</span>
-              <p>{`// ${item.text}`}</p>
+              <p>{` ${item.text}`}</p>
             </Link>
           ))}
         </div>

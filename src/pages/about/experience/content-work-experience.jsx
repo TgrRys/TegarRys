@@ -16,14 +16,14 @@ export const ContentWorkExperience = () => {
             </a>
           </span>
         </h3>
-        <p className="pb-5 font-mono text-sm lg:text-base">Feb 2023 - May 2023</p>
+        <p className="pb-5 font-mono text-sm lg:text-base">16 Aug 2022 - 21 Dec 2022</p>
         <ul className="flex list-inside list-disc flex-col gap-4 text-sm leading-relaxed lg:text-base">
-          <li>
+          <p>
             As a Front End Web Developer student at SKILVUL, I had the opportunity to
             learn and develop skills in web development using Skil{`'`}s technology
             stack, specifically{" "}
             <a
-              href="https://laravel-livewire.com/"
+              href="https://react.dev/"
               className="text-underline"
               target="_blank"
               rel="noreferrer"
@@ -42,7 +42,7 @@ export const ContentWorkExperience = () => {
             </a>{" "}
             platform as a Front End Developer, utilizing{" "}
             <a
-              href="https://nextjs.org/"
+              href="https://react.dev/"
               className="text-underline"
               target="_blank"
               rel="noreferrer"
@@ -52,7 +52,7 @@ export const ContentWorkExperience = () => {
             . This experience has helped me further my knowledge and expertise in
             web development and given me a better understanding of how to work
             with different technology stacks.
-          </li>
+          </p>
         </ul>
       </div>
     );

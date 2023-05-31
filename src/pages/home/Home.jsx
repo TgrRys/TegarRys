@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="ml-5">
-      <div className="flex h-[80vh] w-full flex-col justify-center px-0 pt-44 leading-relaxed md:h-screen md:pt-16 lg:px-[70px] lg:pt-12 ">
+    <div className="ml-5 pb-10">
+      <div className="flex h-[80vh] w-full flex-col justify-center px-0 pt-36 leading-relaxed md:h-screen md:pt-16 lg:px-[70px] lg:pt-12 ">
         <p
           className="ml-1 hidden pb-3 text-sm text-accent md:block md:pb-7 md:text-base"
           data-aos="fade-up"
@@ -11,25 +11,18 @@ export default function Home() {
           Hi, my name is
         </p>
         <h1
-          className="pb-1 text-4xl font-semibold text-secondary md:mt-0 md:pb-4 md:text-5xl lg:text-6xl"
+          className="pb-2 text-4xl font-semibold text-secondary md:mt-0 md:pb-4 md:text-5xl lg:text-6xl"
           data-aos="fade-up"
         >
-         Tegar
-        </h1>
-        <h1
-          className="pb-4 text-4xl font-semibold text-primary md:pb-8 md:text-5xl lg:text-6xl"
-          data-aos="fade-up"
-        >
-          I build things for the web.
+          Tegar Risqy Yulian Santoso
         </h1>
         <p
           className="w-full text-sm leading-relaxed text-primary md:w-[540px] md:text-base"
           data-aos="zoom-in-up"
         >
-          I{`'`}m a Front-End software engineer specializes in building (and
-          sometimes designing) amazing and new digital experiences. Currently, I
-          am focusing on learning website applications for
-          industrial needs.
+          I{`'`}m a Front-End web developer specializes in building website.
+          Currently, I am focusing on learning website technology for industrial
+          needs.
         </p>
         <div
           className="mt-10 text-sm md:mt-14"

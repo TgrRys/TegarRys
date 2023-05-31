@@ -19,25 +19,25 @@ import linkedinIcon from "../../src/assets/icons/linkedin.svg";
 import whatsappIcon from "../../src/assets/icons/whatsapp.svg";
 
 // Project Images
-import mulih from "../../src/assets/images/mulih.webp";
-import travel from "../../src/assets/images/travel.webp";
-import bookshelf from "../../src/assets/images/bookshelf.webp";
-import notes from "../../src/assets/images/notes.webp";
-// import treede from "../../src/assets/images/treede.webp";
-import abinawa from "../../src/assets/images/abinawa.webp";
-import inpoums from "../../src/assets/images/inpoums.webp";
-import portfolio_v1 from "../../src/assets/images/portfolio-v1.webp";
-import bertumbuh from "../../src/assets/images/bertumbuh.webp";
-import coffe_bean from "../../src/assets/images/coffe-bean.webp";
-import dapbunda from "../../src/assets/images/dapbunda.webp";
+import bmi from "../../src/assets/images/bmi.png";
+import mynature from "../../src/assets/images/mynature.png";
+import todos from "../../src/assets/images/todos.png";
+import agecalculator from "../../src/assets/images/react-calculator.png";
+import weatherapp from "../../src/assets/images/react-weather-app.png";
+import skilmovie from "../../src/assets/images/skilmovie.png";
+import tmovie from "../../src/assets/images/tmovie.png";
+import portov1 from "../../src/assets/images/personal-web-v1.png";
 
 // Gif Images
-import dapbundaGif from "../../src/assets/gif/dapbunda.gif";
-import coffebeanGif from "../../src/assets/gif/coffe-bean.gif";
-import portfolioGif from "../../src/assets/gif/portfolio.gif";
-import notesGif from "../../src/assets/gif/notes.gif";
-import abinawaGif from "../../src/assets/gif/abinawa.gif";
-import bookshelfGif from "../../src/assets/gif/bookshelf.gif";
+import bmiGif from "../../src/assets/gif/bmi.gif"
+import mynatureGif from "../../src/assets/gif/mynature.gif"
+import todosGif from "../../src/assets/gif/todos.gif"
+import agecalculatorGif from "../../src/assets/gif/age-calculator.gif"
+import weatherappGif from "../../src/assets/gif/react-weatherapp.gif"
+import skilmovieGif from "../../src/assets/gif/skilmovie.gif"
+import tmovieGif from "../../src/assets/gif/react-movie.gif"
+import portov1Gif from "../../src/assets/gif/personal-porto-v1.gif"
+
 
 const tools = {
   Git: { name: "Git", src: gitIcon, level: "Version control" },
@@ -70,102 +70,82 @@ const projects = [
   {
     id: 1,
     name: "BMI Calculator",
-    desc: "My first project was created using HTML, CSS, and JavaScript. This website actually can be used to calculate your BMI, but I made it just for fun and to learn more about DOM manipulation.",
-    image: mulih,
+    desc: "My first project was created using HTML, CSS, and JavaScript. This website actually can be used to calculate your BMI.",
+    image: bmi,
     web: "https://tegar-kalkulator-bmi.netlify.app/",
     repo: "https://github.com/TgrRys/TPA-2",
     stack: "HTML, CSS, JavaScript, Responsive Web Design",
-    gif: "",
+    gif: bmiGif,
   },
   {
     id: 2,
-    name: "Skill Movie.",
-    desc: "This website is a movie fetch API TMDb. I made this website to learn more about javascript and API.",
-    image: travel,
-    web: "https://tegar-skilmovie.netlify.app/",
-    repo: "https://github.com/TgrRys/TPA-3",
-    stack: "HTML, CSS, Javascript, Bootstrap, Responsive Web Design",
-    gif: "",
+    name: "MyNature",
+    desc: "This website is a capstone website for the Skilvul Front End Web Development. This website is a website that provides information about nature crisi in Indonesia.",
+    image: mynature,
+    web: "https://mynaturefebe-12.netlify.app/",
+    repo: "https://github.com/Tech-4-Impact-FE-12/FinalProject-FE12",
+    stack: "Vite, React-JS, React-Router, Redux, Axios, Bootstrap, Responsive Web Design",
+    gif: mynatureGif,
   },
   {
     id: 3,
     name: "Todos App",
-    desc: "This website is a simple todo app. I made this website to learn more about React JS and Redux.",
-    image: bookshelf,
+    desc: "This website is a simple todo app. This website is a website that can be used to create a list of tasks that you want to do.  I made this website to learn more about React JS and Redux.",
+    image: todos,
     web: "https://tgrrys-todos.netlify.app/",
     repo: "https://github.com/TgrRys/TPA-5",
-    stack: "Vite, React JS, Redux, Responsive Web Design",
-    gif: bookshelfGif,
+    stack: "Vite, React-JS, Redux, React-Icons, Sweetalert",
+    gif: todosGif,
   },
   {
     id: 4,
-    name: "Abinawa",
-    desc: "This website is designed as a digital learning tool to introduce the art of wayang kulit to the public. The website features interactive 3D models of wayang kulit.",
-    image: abinawa,
-    web: "http://abinawa.vercel.app",
-    repo: "https://github.com/ulinnajaaldi/abinawa",
-    stack: "Vite, React, React-spline, React-router, TailwindCSS",
-    gif: abinawaGif,
+    name: "Age Calculator",
+    desc: "This website is a simple age calculator. This website is a website that can be used to calculate your age just for fun.",
+    image: agecalculator,
+    web: "https://tegar-react-age-calculator.netlify.app",
+    repo: "https://github.com/TgrRys/react-age-calculator",
+    stack: "Vite, React-JS, TailwindCSS",
+    gif: agecalculatorGif,
   },
   {
     id: 5,
-    name: "Inpo UMS",
-    desc: "The purpose of this platform is to provide students with a medium to share information about the latest events or news happening in the UMS community.",
-    image: inpoums,
+    name: "Weather App",
+    desc: "The weather app is a website that can be used to find out the weather in a city. I made this website to learn more about React JS and API. I also use the OpenWeatherMap API to get the weather data.",
+    image: weatherapp,
     web: "",
-    repo: "https://github.com/ulinnajaaldi/laravel-react-inpo-ums",
-    stack: "Laravel, Laravel Breeze, React, React-icons, TailwindCSS, DaisyUI",
-    gif: "",
+    repo: "https://github.com/TgrRys/TWeather-app",
+    stack: "Vite, React-JS, React-Icons, Axios",
+    gif: weatherappGif,
   },
   {
     id: 6,
-    name: "Notes",
-    desc: "Welcome to Notes app! With this app, you can create, edit, delete and organize your notes. You can also sign up and log in to access your notes. This app I made for complete the Dicoding React Fundamental course.",
-    image: notes,
-    web: "https://notes-app-api-db-dicoding.vercel.app",
-    repo: "https://github.com/ulinnajaaldi/Notes",
-    stack: "React, React-Icons, React-Router, Rest API, TailwindCSS, DaisyUI",
-    gif: notesGif,
+    name: "Skilmovie",
+    desc: "Skilmovie is a website that can be used to find out information about movies. I made this website to learn more about JS and API. I also use the TMDB API to get the movie data.",
+    image: skilmovie,
+    web: "https://tegar-skilmovie.netlify.app",
+    repo: "https://github.com/TgrRys/TPA-3",
+    stack: "HTML, CSS, JavaScript, Responsive Web Design",
+    gif: skilmovieGif,
   },
   {
     id: 7,
-    name: "Portfolio",
-    desc: "My first personal portfolio!! I designed it by combining different ideas from various sources. It also has a secret game that you can play on your desktop. Can you find it?",
-    image: portfolio_v1,
-    web: "https://ulinnaja-aldi.vercel.app/",
-    repo: "https://github.com/ulinnajaaldi/portofolio",
-    stack: "NextJS, TailwindCSS, ThreeJS, React-spline",
-    gif: portfolioGif,
+    name: "Portfolio-V1",
+    desc: "My first personal portfolio using Bootstrap!! I made this website to learn more about Bootstrap an I designed it by combining different ideas from any sources.",
+    image: portov1,
+    web: "https://tegar-personal-web.netlify.app",
+    repo: "https://github.com/TgrRys/TPA-1",
+    stack: "HTML, Bootstrap",
+    gif: portov1Gif,
   },
   {
     id: 8,
-    name: "Bertumbuh (Slice)",
-    desc: "Trying to slice from Figma correctly to create a responsive website, and actually, it is already very good for being responsive (can be checked through inspect), but sometimes on certain screens, the margin is not read properly.",
-    image: bertumbuh,
-    web: "https://bertumbuh.vercel.app/",
-    repo: "",
-    stack: "React, React-Icons, React-Router, TailwindCSS",
-    gif: "",
-  },
-  {
-    id: 9,
-    name: "Coffe Bean",
-    desc: "Interactive website featuring a 3D model that can be rendered online. I wanted to apply the creative idea I had, even if it was just from a picture ✨, I hope you enjoy the enjoyable experience on the website!",
-    image: coffe_bean,
-    web: "https://coffee-bean-3d.vercel.app/",
-    repo: "https://github.com/ulinnajaaldi/coffee-bean",
-    stack: "Vite, React, React-Icons, TailwindCSS, Spline, Framer Motion",
-    gif: coffebeanGif,
-  },
-  {
-    id: 10,
-    name: "DapBunda Meal",
-    desc: "This website provides information about various meals and how to cook them 🍴, using the API from TheMealDB. I created this website to complete the Dicoding Front End Fundamental course.",
-    image: dapbunda,
-    web: "https://dapbunda.vercel.app/",
-    repo: "https://github.com/ulinnajaaldi/dicoding-dapbunda-fe-fundamental",
-    stack: "Webpack, Axios, TailwindCSS, DaisyUI, AOS",
-    gif: dapbundaGif,
+    name: "TMovie",
+    desc: "Trying to make a website that can be used to find out information about movies, detail movies and can find out about actor. I made this website to learn more about React JS and API. I also use the TMDB API to get the movie data.",
+    image: tmovie,
+    web: "https://t-movie-github-fjh70hybn-tegarrizky237-gmailcom.vercel.app/",
+    repo: "https://github.com/TgrRys/TMovie",
+    stack: "Vite, React-JS, React-Router, React-Bootstrap, Bootstrap, React-Toastify",
+    gif: tmovieGif,
   },
 ];
 

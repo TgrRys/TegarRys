@@ -30,7 +30,7 @@ export default function Contact() {
             data-aos-duration="300"
             data-aos-once="true"
           >
-            <a href="https://" target="_blank">
+            <a href={contacts[contact].href} target="_blank">
             <CardContact
               src={contacts[contact].src}
               name={contacts[contact].name}

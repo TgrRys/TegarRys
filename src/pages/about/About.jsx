@@ -31,11 +31,8 @@ export default function About() {
             <p data-aos="zoom-in-right">
               Hello! My real name is Tegar Risqy Yulian Santoso, an Informatics
               Engineering student interested and experienced in web developments
-              and UI As an Informatics Engineering student, I have strong
+              and UI. As an Informatics Engineering student, I have strong
               knowledge and experience in web programming and UI design.
-            </p>
-            <p data-aos="zoom-in-right" data-aos-delay="200">
-              In addition to web development, I am also skilled in UI Design.
             </p>
             <p data-aos="zoom-in-right" data-aos-delay="300">
               I am constantly striving to improve my skills and knowledge. I
@@ -51,17 +48,17 @@ export default function About() {
           data-aos="zoom-in"
           data-aos-duration="300"
         >
-          <div className="grayscale transition-all duration-500 hover:grayscale-0">
+          <div className="pt-5 grayscale transition-all duration-500 hover:grayscale-0">
             <img
-              src="https://i.pinimg.com/originals/4e/40/ed/4e40ed6f30da3cb2c1e9106c9a375b17.jpg"
+              src="https://res.cloudinary.com/dzgtndwwd/image/upload/v1685534954/TegarRys_ul3sum.jpg"
               alt="tegar"
               height={500}
-              className="scale-50 lg:scale-100 2xl:scale-50"
+              className="scale-60 lg:scale-100 2xl:scale-50"
             />
           </div>
         </div>
       </div>
-      <div className="pt-[100px] pb-[50px] lg:pb-[60px]">
+      <div className="pt-[100px] pb-[50px] lg:pb-[50px]">
         <Experience />
       </div>
       <div>
