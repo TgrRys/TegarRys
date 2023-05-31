@@ -27,19 +27,18 @@ export default function About() {
               data-aos-duration="600"
             ></div>
           </div>
-          <div className="flex flex-col gap-5 pr-0 text-sm md:text-base lg:pr-10 xl:pr-0">
+          <div className="pb-10 flex flex-col gap-5 pr-0 text-sm md:text-base lg:pr-10 xl:pr-0">
             <p data-aos="zoom-in-right">
-              Hello! My real name is Tegar Risqy Yulian Santoso, an Informatics
+              Hello! I am is Tegar Risqy Yulian Santoso, an Informatics
               Engineering student interested and experienced in web development
               and UI. As an Informatics Engineering student, I have strong
-              knowledge and experience in web programming and UI design.
+              knowledge and experiences in web programming and UI design.
             </p>
             <p data-aos="zoom-in-right" data-aos-delay="300">
               I am constantly striving to improve my skills and knowledge. I
               believe that consistent training and personal projects are keys to
               success. I am committed to staying up-to-date with the latest
-              developments in my field and continuously expanding my knowledge
-              and skills.
+              developments in my field and continuously expanding my skill sets.
             </p>
           </div>
         </div>
@@ -48,7 +47,7 @@ export default function About() {
           data-aos="zoom-in"
           data-aos-duration="300"
         >
-          <div className="pt-5 grayscale transition-all duration-500 hover:grayscale-0">
+          <div className="pt-20 grayscale transition-all duration-500 hover:grayscale-0">
             <img
               src="https://res.cloudinary.com/dzgtndwwd/image/upload/v1685534954/TegarRys_ul3sum.jpg"
               alt="tegar"
@@ -58,7 +57,7 @@ export default function About() {
           </div>
         </div>
       </div>
-      <div className="pt-[100px] pb-[50px] lg:pb-[50px]">
+      <div className="pt-[120px] pb-[50px] lg:pb-[50px]">
         <Experience />
       </div>
       <div>

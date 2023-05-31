@@ -20,7 +20,7 @@ export const ContentOrganization = () => {
         <ul className="flex list-inside list-disc flex-col gap-4 text-sm leading-relaxed lg:text-base">
           <p>
             In the Student Association of Informatics Engineering at Politeknik Harapan Bersama
-            (INVOFEST), I hold a position as the support of the Workshop Data Science.
+            , I held a position as support of the Data Science Workshop.
             One of the biggest events is the{" "}
             <a
               href="https://www.instagram.com/parti.ums/"

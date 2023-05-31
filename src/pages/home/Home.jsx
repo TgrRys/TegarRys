@@ -20,7 +20,7 @@ export default function Home() {
           className="w-full text-sm leading-relaxed text-primary md:w-[540px] md:text-base"
           data-aos="zoom-in-up"
         >
-          I{`'`}m a Front-End web developer specialized in building websites.
+          I{`'`}m a Front End Developer specialized in building websites.
           Currently, I am focusing on learning website technology for industrial
           needs like ReactJS, Bootstrap, and TailwindCSS. I am also interested
           in UI/UX designs and have experiences in designing UI/UX for websites.

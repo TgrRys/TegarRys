@@ -80,7 +80,7 @@ const projects = [
   {
     id: 2,
     name: "MyNature",
-    desc: "This website is a capstone website for the Skilvul Front End Web Development. This website is a website that provides information about nature crisi in Indonesia.",
+    desc: "This website is a capstone website for the Skilvul Front End Web Development. This website is a website that provides information about nature crisis in Indonesia.",
     image: mynature,
     web: "https://mynaturefebe-12.netlify.app/",
     repo: "https://github.com/Tech-4-Impact-FE-12/FinalProject-FE12",
@@ -130,7 +130,7 @@ const projects = [
   {
     id: 7,
     name: "Portfolio-V1",
-    desc: "My first personal portfolio using Bootstrap!! I made this website to learn more about Bootstrap an I designed it by combining different ideas from any sources.",
+    desc: "My first personal portfolio using Bootstrap!! I made this website to learn more about Bootstrap an I designed it by combining different ideas from several sources.",
     image: portov1,
     web: "https://tegar-personal-web.netlify.app",
     repo: "https://github.com/TgrRys/TPA-1",

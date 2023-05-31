@@ -16,7 +16,7 @@ export const ContentEducation = () => {
             </a>
           </span>
         </h3>
-      <p className="pb-5 font-mono text-sm lg:text-base">July 2017 - 2020</p>
+      <p className="pb-5 font-mono text-sm lg:text-base">Jul 2017 - 2020</p>
       <ul className="flex list-inside list-disc flex-col gap-4 text-sm leading-relaxed lg:text-base">
         <p>
           I chose to study social sciences to gain a deeper understanding of
@@ -50,7 +50,7 @@ export const ContentEducation = () => {
           strong belief that technology would gradually replace various
           commercial jobs in the future. With this in mind, I made a conscious
           decision to pursue this field of study in order to equip myself with
-          the necessary skills and knowledge to thrive in an evolving job market
+          the necessary skills and knowledge to thrive in an evolving job market.
         </p>
       </ul>
     </div>
