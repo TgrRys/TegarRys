@@ -20,10 +20,10 @@ export default function Home() {
           className="w-full text-sm leading-relaxed text-primary md:w-[540px] md:text-base"
           data-aos="zoom-in-up"
         >
-          I{`'`}m a Front-End web developer specializes in building website.
+          I{`'`}m a Front-End web developer specialized in building websites.
           Currently, I am focusing on learning website technology for industrial
           needs like ReactJS, Bootstrap, and TailwindCSS. I am also interested
-          in UI/UX design and have experience in designing UI/UX for websites.
+          in UI/UX designs and have experiences in designing UI/UX for websites.
         </p>
         <div
           className="mt-10 text-sm md:mt-14"

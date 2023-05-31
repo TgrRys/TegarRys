@@ -90,7 +90,7 @@ const projects = [
   {
     id: 3,
     name: "Todos App",
-    desc: "This website is a simple todo app. This website is a website that can be used to create a list of tasks that you want to do.  I made this website to learn more about React JS and Redux.",
+    desc: "This website is a simple to-do app. This website is a website that can be used to create a list of tasks that you want to do.  I made this website to learn more about React JS and Redux.",
     image: todos,
     web: "https://tgrrys-todos.netlify.app/",
     repo: "https://github.com/TgrRys/TPA-5",
@@ -110,7 +110,7 @@ const projects = [
   {
     id: 5,
     name: "Weather App",
-    desc: "The weather app is a website that can be used to find out the weather in a city. I made this website to learn more about React JS and API. I also use the OpenWeatherMap API to get the weather data.",
+    desc: "The weather app is a website that can be used to find out about the condition of the weather in a city. I made this website to learn more about React JS and API. I also use the OpenWeatherMap API to get the weather data.",
     image: weatherapp,
     web: "",
     repo: "https://github.com/TgrRys/TWeather-app",

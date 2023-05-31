@@ -30,13 +30,13 @@ export default function About() {
           <div className="flex flex-col gap-5 pr-0 text-sm md:text-base lg:pr-10 xl:pr-0">
             <p data-aos="zoom-in-right">
               Hello! My real name is Tegar Risqy Yulian Santoso, an Informatics
-              Engineering student interested and experienced in web developments
+              Engineering student interested and experienced in web development
               and UI. As an Informatics Engineering student, I have strong
               knowledge and experience in web programming and UI design.
             </p>
             <p data-aos="zoom-in-right" data-aos-delay="300">
               I am constantly striving to improve my skills and knowledge. I
-              believe that ongoing training and personal projects are key to
+              believe that consistent training and personal projects are keys to
               success. I am committed to staying up-to-date with the latest
               developments in my field and continuously expanding my knowledge
               and skills.
