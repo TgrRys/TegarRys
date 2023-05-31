@@ -12,14 +12,6 @@ export default function Project() {
       >
         Past Project Experience
       </h1>
-      <p
-        className="text-center text-sm font-medium text-primary md:text-base"
-        data-aos="fade-up"
-        data-aos-duration="300"
-      >
-        Explore how I consistently delivered maximum results in my previous
-        projects.
-      </p>
       <div className="mb-5" data-aos="zoom-in" data-aos-duration="600" data-aos-once="true">
         <ListProject />
       </div>

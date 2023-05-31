@@ -22,7 +22,8 @@ export default function Home() {
         >
           I{`'`}m a Front-End web developer specializes in building website.
           Currently, I am focusing on learning website technology for industrial
-          needs.
+          needs like ReactJS, Bootstrap, and TailwindCSS. I am also interested
+          in UI/UX design and have experience in designing UI/UX for websites.
         </p>
         <div
           className="mt-10 text-sm md:mt-14"
