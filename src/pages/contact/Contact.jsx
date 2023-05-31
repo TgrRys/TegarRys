@@ -21,7 +21,7 @@ export default function Contact() {
           Contact Me
         </h1>
       </div>
-      <div className="grid grid-cols-2 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12 flex-grow">
+      <div className="grid grid-cols-1 gap-4 pb-32 md:grid-cols-3 md:gap-8 xl:grid-cols-4 xl:gap-10 2xl:gap-12 flex-grow">
         {Object.keys(contacts).map((contact, index) => (
           <div
             key={index}
