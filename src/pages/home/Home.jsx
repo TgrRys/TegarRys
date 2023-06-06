@@ -32,7 +32,7 @@ export default function Home() {
         >
           <a
             className="rounded-[4px] border-2 border-accent px-7 py-5 text-accent transition-all duration-300 hover:bg-accent hover:bg-opacity-10"
-            href="https://drive.google.com/file/d/1FjBcw3Ev_gdN6yFnvLNRdSQe5taxVLtA/view"
+            href="https://drive.google.com/file/d/1RwvEikHfBr2vdgKMzH0DwZQ3fHgzMAdE/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
