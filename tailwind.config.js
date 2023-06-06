@@ -20,7 +20,7 @@ export default {
         primary: "#9CA3AF",
         secondary: "#E5E7EB",
         accent: "#64ffda",
-        base_col: "#111827",
+        base_col: "#0a192f",
         base_col_darker: "#151E31",
       },
       fontFamily: {
