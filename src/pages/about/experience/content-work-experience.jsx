@@ -16,7 +16,7 @@ export const ContentWorkExperience = () => {
             </a>
           </span>
         </h3>
-        <p className="pb-5 font-mono text-sm lg:text-base">16 Aug 2022 - 21 Dec 2022</p>
+        <p className="pb-5 font-mono text-sm lg:text-base">Aug 2022 - Dec 2022</p>
         <ul className="flex list-inside list-disc flex-col gap-4 text-sm leading-relaxed lg:text-base">
           <p>
             As a Front End Web Developer student at SKILVUL, I had the opportunity to

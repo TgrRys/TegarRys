@@ -36,7 +36,7 @@ export const ContentAward = () => {
           </a>
         </span>
       </h3>
-      <p className="pb-4 font-mono text-sm lg:text-base">December 2022</p>
+      <p className="pb-4 font-mono text-sm lg:text-base">Dec 2022</p>
       <ul className="flex list-inside list-disc flex-col gap-4 text-sm leading-relaxed lg:text-base">
         <p>
           Achievement as the top group in Skilvul's Demo Day {`"`}#Tech4Impact:

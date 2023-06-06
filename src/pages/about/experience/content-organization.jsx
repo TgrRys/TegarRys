@@ -16,7 +16,7 @@ export const ContentOrganization = () => {
             </a>
           </span>
         </h3>
-        <p className="pb-5 font-mono text-sm lg:text-base">Dec 2022 - Jan 2023</p>
+        <p className="pb-5 font-mono text-sm lg:text-base">Jul 2022 - Dec 2022</p>
         <ul className="flex list-inside list-disc flex-col gap-4 text-sm leading-relaxed lg:text-base">
           <p>
             In the Student Association of Informatics Engineering at Politeknik Harapan Bersama
