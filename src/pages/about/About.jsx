@@ -30,9 +30,9 @@ export default function About() {
           <div className="pb-10 flex flex-col gap-5 pr-0 text-sm md:text-base lg:pr-10 xl:pr-0">
             <p data-aos="zoom-in-right">
               Hello! I am is Tegar Risqy Yulian Santoso, an Informatics
-              Engineering student interested and experienced in web development
-              and UI. As an Informatics Engineering student, I have strong
-              knowledge and experiences in web programming and UI design.
+              Engineering student interested and experienced in web development. 
+              As an Informatics Engineering student, I have strong
+              knowledge and experiences in web programming.
             </p>
             <p data-aos="zoom-in-right" data-aos-delay="300">
               I am constantly striving to improve my skills and knowledge. I

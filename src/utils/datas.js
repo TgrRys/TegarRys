@@ -12,6 +12,7 @@ import gitIcon from "../../src/assets/icons/git.svg";
 import githubIcon from "../../src/assets/icons/github.svg";
 import vscodeIcon from "../../src/assets/icons/vscode.svg";
 import vite from "../../src/assets/icons/vite.svg";
+import php from "../../src/assets/icons/php.svg";
 
 // Contact Icons
 import instagramIcon from "../../src/assets/icons/instagram.svg";
@@ -60,6 +61,7 @@ const stacks = {
   HTML: { name: "HTML", src: htmlIcon, level: "Advanced" },
   CSS: { name: "CSS", src: cssIcon, level: "Advanced" },
   JS: { name: "Javascript", src: jsIcon, level: "Intermediate" },
+  PHP: { name: "PHP", src: php, level: "Intermediate" },
   React: { name: "ReactJS", src: reactIcon, level: "Intermediate" },
   NodeJS: { name: "NodeJS", src: nodejsIcon, level: "Beginner" },
   Bootstrap: { name: "Bootstrap", src: bootstrapIcon, level: "Intermediate" },

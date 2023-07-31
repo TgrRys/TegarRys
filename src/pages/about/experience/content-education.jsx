@@ -29,7 +29,7 @@ export const ContentEducation = () => {
         </p>
       </ul>
       <h3 className="pt-4 text-lg font-medium leading-loose text-secondary md:text-xl">
-          Informatics Enggineering
+          Informatics Engineering
           <span className=" text-accent">
             {" "}
             @

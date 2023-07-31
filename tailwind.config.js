@@ -19,8 +19,8 @@ export default {
       colors: {
         primary: "#9CA3AF",
         secondary: "#E5E7EB",
-        accent: "#64ffda",
-        base_col: "#0a192f",
+        accent: "#B6EADA",
+        base_col: "#03001C",
         base_col_darker: "#151E31",
       },
       fontFamily: {
