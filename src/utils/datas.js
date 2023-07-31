@@ -61,7 +61,7 @@ const stacks = {
   HTML: { name: "HTML", src: htmlIcon, level: "Advanced" },
   CSS: { name: "CSS", src: cssIcon, level: "Advanced" },
   JS: { name: "Javascript", src: jsIcon, level: "Intermediate" },
-  PHP: { name: "PHP", src: php, level: "Intermediate" },
+  PHP: { name: "PHP", src: php, level: "Beginner" },
   React: { name: "ReactJS", src: reactIcon, level: "Intermediate" },
   NodeJS: { name: "NodeJS", src: nodejsIcon, level: "Beginner" },
   Bootstrap: { name: "Bootstrap", src: bootstrapIcon, level: "Intermediate" },
