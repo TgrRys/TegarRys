@@ -23,7 +23,7 @@ export default function Home() {
           I{`'`}m a Front End Developer specialized in building websites.
           Currently, I am focusing on learning website technology for industrial
           needs like ReactJS, Laravel, Bootstrap, and TailwindCSS. I am also interested
-          in UI/UX designs and have experiences in designing UI/UX for websites.
+          in UI/UX designs and have experiences in designing UI/UX for both mobile and websites.
         </p>
         <div
           className="mt-10 text-sm md:mt-14"
@@ -32,7 +32,7 @@ export default function Home() {
         >
           <a
             className="rounded-[4px] border-2 border-accent px-7 py-5 text-accent transition-all duration-300 hover:bg-accent hover:bg-opacity-10"
-            href="https://drive.google.com/file/d/14duXwEOeXwn1SMsgJN6UZlijDQ8LsVZR/view?usp=sharing"
+            href="https://drive.google.com/file/d/1zeoOnCjopbRGxCzcaAuTXPc18OpiAZZ6/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
