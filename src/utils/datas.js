@@ -30,6 +30,7 @@ import weatherapp from "../../src/assets/images/react-weather-app.png";
 import skilmovie from "../../src/assets/images/skilmovie.png";
 import tmovie from "../../src/assets/images/tmovie.png";
 import portov1 from "../../src/assets/images/personal-web-v1.png";
+import dicodingforum from "../../src/assets/images/dicoding-forum.png";
 
 // Gif Images
 import bmiGif from "../../src/assets/gif/bmi.gif"
@@ -153,6 +154,16 @@ const projects = [
     stack: "Vite, React-JS, React-Router, React-Bootstrap, Bootstrap, React-Toastify",
     gif: tmovieGif,
   },
+  {
+    id: 9,
+    name: "Dicoding Forum",
+    desc: "This website is a capstone website for the Dicoding Front End Web Development. This website is a website that can be used to ask questions and answer questions about programming.",
+    image: dicodingforum,
+    web: "https://react-ssubmis-dicoding.vercel.app/",
+    repo: "",
+    stack: "Vite, React-JS, React-Router, Redux, Axios, Tailwind, Responsive Web Design",
+    gif: "",
+  }
 ];
 
 export { tools, stacks, projects, contacts };
